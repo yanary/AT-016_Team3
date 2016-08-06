@@ -1,0 +1,6 @@
+John Brown-director-10000
+Mike Tyson-security-5000
+Stephan Spielberg-promoter-7000
+Jennifer Lopez-designer-6000
+Quentin Tarantino-creative director-8000
+John Travolta-cleaner-2000
