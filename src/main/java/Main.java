@@ -19,21 +19,5 @@ public class Main {
 				continue;
 			}
 		}
-		
-	System.out.println("*** Before sorting: ***");
- 
-        for (Employee emp : employees) {
-            System.out.println(emp);
-        }
- 
-        Collections.sort(employees, new EmployeeComparator());
- 
-        System.out.println("\n*** After sorting: ***");
- 
-        for (Employee emp : employees) {
-            System.out.println(emp);
-        }
-
-
 	}
 }
